@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, AI and Machine Learning
 - 🌱 I’m currently learning AWS AI and Machine Learning in Python
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me: livyakendi1@gmail.com
+- 📫 How to reach me: livyakendikiruja@gmail.com
 
 <!---
 Olive-Spider/Olive-Spider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
