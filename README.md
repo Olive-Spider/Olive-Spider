@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Olive-Spider, call me Livya if you like.
-- 👀 I’m interested in Software Development, AI and Machine Learning
+- 👋 Hi, I’m @Olive-Spider, you may also call me Livya.
+- 👀 I’m interested in Software Development/Engineering, AI and Machine Learning
 - 🌱 I’m currently learning AWS AI and Machine Learning in Python
+- 🌱 I'm also enrolled in the ALX Software Engineering programme. #Do Hard Things
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me: livyakendikiruja@gmail.com
 
