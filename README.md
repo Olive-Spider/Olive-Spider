@@ -4,6 +4,7 @@
 - 🌱 I'm also enrolled in the ALX Software Engineering programme. #Do Hard Things
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me: livyakendikiruja@gmail.com
+- Checkout what else I can do: https://olive-spider.showwcase.com/
 
 <!---
 Olive-Spider/Olive-Spider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
